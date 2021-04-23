@@ -1,0 +1,3 @@
+/home/guilherme/Dropbox/mestrado/pesquisa/algorithms/lambda-permutations/breakpoint_algs/build/CMakeFiles/rebuild_cache.dir
+/home/guilherme/Dropbox/mestrado/pesquisa/algorithms/lambda-permutations/breakpoint_algs/build/CMakeFiles/exec.dir
+/home/guilherme/Dropbox/mestrado/pesquisa/algorithms/lambda-permutations/breakpoint_algs/build/CMakeFiles/edit_cache.dir
