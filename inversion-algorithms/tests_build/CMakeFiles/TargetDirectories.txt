@@ -1,3 +1,0 @@
-/home/guilherme/Dropbox/mestrado/pesquisa/algorithms/lambda-permutations/inversion_algs/tests_build/CMakeFiles/rebuild_cache.dir
-/home/guilherme/Dropbox/mestrado/pesquisa/algorithms/lambda-permutations/inversion_algs/tests_build/CMakeFiles/exec.dir
-/home/guilherme/Dropbox/mestrado/pesquisa/algorithms/lambda-permutations/inversion_algs/tests_build/CMakeFiles/edit_cache.dir
